@@ -37,7 +37,7 @@ Codio documentation can be found here:
 
 [CIS 120 Codio Documentation](https://www.seas.upenn.edu/~cis120/current/codio/)
 
-##Video Walkathrough of game
+## Video Walkathrough of game
 
 
 <img src="http://g.recordit.co/OaqkudmKpK.gif" width=250><br>
