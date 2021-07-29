@@ -39,6 +39,7 @@ Codio documentation can be found here:
 
 ##Video Walkathrough of game
 
+
 <img src="http://g.recordit.co/OaqkudmKpK.gif" width=250><br>
 
 <img src="http://g.recordit.co/UQdrxxa4ru.gif" width=250><br>
